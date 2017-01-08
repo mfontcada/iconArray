@@ -1,0 +1,9 @@
+Package: iconArray
+Title: Icon array visualization using 'htmlwidgets' and 'D3.js'
+Version: 0.0.0.9000
+Author: @mfontcada
+Description: Creates an icon array visualization.
+Depends: R (>= 3.3.0)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
